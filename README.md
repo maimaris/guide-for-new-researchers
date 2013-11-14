@@ -2,7 +2,7 @@
 
 ## PC Setup
 
-## Color Printer Setup
+### Color Printer Setup
 1. Download printer driver RICOH C2550 PCL 6 Driver [press here](http://support.ricoh.com/bb/html/dr_ut_e/re/model/mpc20/mpc20en.htm)
 2. Install .exe in a directory
 3. Add Printer
@@ -14,4 +14,4 @@
 9. Print test-page
 
 
-#KIOS Presentation Templates
+# KIOS Presentation Templates
