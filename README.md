@@ -2,8 +2,8 @@ KIOS New Researchers' Guide
 ===========================
 
 
-#Printer Setup#
+#Printer Setup
 
 
 
-#KIOS Presentation Templates#
+#KIOS Presentation Templates
